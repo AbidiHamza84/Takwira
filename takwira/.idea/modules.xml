@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/facebook-android-sdk-4.25.0/facebook-android-sdk-4.25.0.iml" filepath="$PROJECT_DIR$/facebook-android-sdk-4.25.0/facebook-android-sdk-4.25.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javax.mail-1.6.0/javax.mail-1.6.0.iml" filepath="$PROJECT_DIR$/javax.mail-1.6.0/javax.mail-1.6.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/takwira.iml" filepath="$PROJECT_DIR$/takwira.iml" />
+    </modules>
+  </component>
+</project>

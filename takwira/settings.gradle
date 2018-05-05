@@ -1,0 +1,1 @@
+include ':app', ':facebook-android-sdk-4.25.0', ':javax.mail-1.6.0'

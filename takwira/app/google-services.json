@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "518635465309",
+    "project_id": "firebase-takwira"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518635465309:android:c84557c1bd4ccad7",
+        "android_client_info": {
+          "package_name": "com.takwira.hamza.takwira"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "518635465309-eqgtjkop00gi7uio47ku8kluv8ff8qi5.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "518635465309-oh0bel1i2s64pofo4r64ncd7jb411b4i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.takwira.hamza.takwira",
+            "certificate_hash": "136337d6f3d3b6973bcc50130e53891735b1b928"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuhlbSDgTWSY_7McuxTejK_lx3IWahC1Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
