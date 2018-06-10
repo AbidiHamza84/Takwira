@@ -6,10 +6,10 @@ package com.takwira.hamza.takwira;
 
 public class AppConfig {
     // Server terrain storing url
-    public static String URL_STORE_TERRAIN = "http://10.0.2.2/takwira/storeterrains.php";
+    public static String URL_STORE_TERRAIN = "http://192.168.43.159/takwira/terrain/storeTerrain.php";
 
     // Server terrain recovering url
-    public static String URL_RECOVER_TERRAIN = "http://10.0.2.2/takwira/recoverterrains.php";
+    public static String URL_RECOVER_TERRAIN = "http://192.168.43.159/takwira/terrain/recoverAllTerrains.php";
 
     public  static int MY_SOCKET_TIMEOUT_MS = 1000*10;
 }

@@ -3,7 +3,7 @@ package com.takwira.hamza.takwira.marker_display;
 import com.google.android.gms.maps.GoogleMap;
 import com.google.android.gms.maps.model.Marker;
 import com.google.android.gms.maps.model.MarkerOptions;
-import com.takwira.hamza.takwira.objects.Terrain;
+import com.takwira.hamza.takwira.Entities.Terrain;
 
 import java.util.HashMap;
 import java.util.List;

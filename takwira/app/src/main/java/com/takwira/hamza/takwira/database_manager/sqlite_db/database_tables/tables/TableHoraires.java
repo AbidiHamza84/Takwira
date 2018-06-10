@@ -2,7 +2,7 @@ package com.takwira.hamza.takwira.database_manager.sqlite_db.database_tables.tab
 
 import android.content.Context;
 
-import com.takwira.hamza.takwira.objects.Horaires;
+import com.takwira.hamza.takwira.Entities.Horaires;
 
 import java.util.List;
 
@@ -14,9 +14,9 @@ public class TableHoraires extends Tables<Horaires> {
     public static final String table_name = "HORAIRES";
     public static final String ouverture = "ouverture" ;
     public static final String fermeture = "fermeture" ;
-    public static final String time_party = "temps_par_partie" ;
+    public static final String time_party = "time_party" ;
     public static final String pause = "pause" ;
-    public static final String address_terrain = "adresse" ;
+    public static final String address_terrain = "adress_terrain" ;
 
     public static final int size = 8 ;
 

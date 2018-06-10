@@ -51,8 +51,8 @@ import com.takwira.hamza.takwira.listview.Card;
 import com.takwira.hamza.takwira.listview.CardArrayAdapter;
 import com.takwira.hamza.takwira.marker_display.MarkerDisplay;
 import com.takwira.hamza.takwira.marker_display.MarkerTerrainsDisplay;
-import com.takwira.hamza.takwira.objects.Terrain;
-import com.takwira.hamza.takwira.objects.User;
+import com.takwira.hamza.takwira.Entities.Terrain;
+import com.takwira.hamza.takwira.Entities.User;
 
 import java.util.ArrayList;
 import java.util.HashMap;

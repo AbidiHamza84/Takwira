@@ -28,7 +28,7 @@ import com.google.android.gms.common.SignInButton;
 import com.google.android.gms.common.api.GoogleApiClient;
 import com.google.android.gms.common.api.OptionalPendingResult;
 import com.takwira.hamza.takwira.R;
-import com.takwira.hamza.takwira.objects.User;
+import com.takwira.hamza.takwira.Entities.User;
 
 import org.json.JSONException;
 import org.json.JSONObject;
@@ -64,7 +64,7 @@ public class Connexion extends AppCompatActivity implements GoogleApiClient.OnCo
 
         user = new User();
 
-        isHeAlreadyConnected();
+        isAlreadyConnected();
 
 
         // Set the dimensions of the sign-in button.
@@ -83,7 +83,7 @@ public class Connexion extends AppCompatActivity implements GoogleApiClient.OnCo
 
     }
 
-    private void isHeAlreadyConnected() {
+    private void isAlreadyConnected() {
         if(Profile.getCurrentProfile() != null) {
 
             connected = false;

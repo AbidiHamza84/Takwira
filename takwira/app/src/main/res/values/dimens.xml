@@ -7,4 +7,5 @@
     <dimen name="nav_header_height">160dp</dimen>
     <dimen name="title_card_view">74dp</dimen>
     <dimen name="text_card_view">150dp</dimen>
+    <dimen name="actionBarSize">55dp</dimen>
 </resources>

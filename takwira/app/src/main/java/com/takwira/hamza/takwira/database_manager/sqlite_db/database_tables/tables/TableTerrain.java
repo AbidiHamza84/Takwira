@@ -5,7 +5,7 @@ import android.content.Context;
 import android.database.Cursor;
 import android.util.Log;
 
-import com.takwira.hamza.takwira.objects.Terrain;
+import com.takwira.hamza.takwira.Entities.Terrain;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -4,7 +4,7 @@ import android.content.ContentValues;
 import android.content.Context;
 import android.database.Cursor;
 
-import com.takwira.hamza.takwira.objects.User;
+import com.takwira.hamza.takwira.Entities.User;
 
 import java.util.HashMap;
 import java.util.List;

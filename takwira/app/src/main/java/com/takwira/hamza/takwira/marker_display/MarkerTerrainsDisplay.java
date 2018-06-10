@@ -7,7 +7,7 @@ import com.google.android.gms.maps.model.MarkerOptions;
 import com.takwira.hamza.takwira.AsyncTasks.CollectMarkers;
 import com.takwira.hamza.takwira.R;
 import com.takwira.hamza.takwira.database_manager.sqlite_db.database_tables.tables.TableTerrain;
-import com.takwira.hamza.takwira.objects.Terrain;
+import com.takwira.hamza.takwira.Entities.Terrain;
 
 import java.util.ArrayList;
 import java.util.HashMap;

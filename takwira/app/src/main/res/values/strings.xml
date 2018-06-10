@@ -1,8 +1,8 @@
 <resources>
     <string name="app_name">takwira</string>
     <string name="title_activity_home">Home</string>
-    <string name="facebook_app_id">130639170876822</string>
-    <string name="fb_login_protocol_scheme">fb130639170876822</string>
+    <string name="facebook_app_id">123896144852284</string>
+    <string name="fb_login_protocol_scheme">fb123896144852284</string>
 
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
@@ -98,6 +98,19 @@
         <item>Terrain de hand-ball</item>
         <item>Terrain de basket-ball</item>
         <item>Terrain de volley-ball</item>
+    </string-array>
+    <string-array name="spinner_time_party">
+        <item>Choisir</item>
+        <item>00:45:00</item>
+        <item>01:00:00</item>
+        <item>01:30:00</item>
+        <item>02:00:00</item>
+    </string-array>
+    <string-array name="spinner_pause">
+
+        <item>00:00:05</item>
+        <item>00:00:10</item>
+        <item>00:00:15</item>
     </string-array>
 
     <string name="terrain_football">Terrain de foot-ball</string>
